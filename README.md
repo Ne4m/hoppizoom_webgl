@@ -1,1 +1,1 @@
-# hoppizoom_webgl
+Hoppi Zoom
